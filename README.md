@@ -2,7 +2,7 @@
 ## Requirements
 Version: Windows 10
 
-Minecraft Release: 1.16.2 preferred
+Minecraft Release: 1.16.x preferred
 
 ## Installation
 Go to the [releases tab](https://github.com/InfinitiStudios/MinecraftTextureScrambler/releases/tag/1.0.0) and install the latest version. This will download a zip file that needs to be extracted.
