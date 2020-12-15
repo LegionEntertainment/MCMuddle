@@ -13,3 +13,6 @@ Once extracted, open the folder and double click on the `main.exe` file and a co
 .minecraft\resourcepacks\
 ```
 then drag the generated `textures` folder into the `resourcepacks` folder. Next, open Minecraft, then go to `Options > Resource Packs` then you should see the new textures option! Just click the arrow over the textures icon then press done. Congradulations! You just fucked up! If you want a different generated textures folder, simply go back to the folder you unzipped and double click on the `main.exe` once more. Then just put the newly generated textures folder (It will overwrite the old textures folder) into your resource packs folder.
+
+
+#### WARNING: DO NOT EDIT OR DELETE THE `RES` FOLDER OR ANYTHING IN IT OR ELSE THE TEXTURES MIGHT NOT GENERATE CORRECTLY
