@@ -1,4 +1,8 @@
 # MCMuddle
+## Info
+This cursed program scrambles the 1.16 textures, which means that a stone block could end up having the texture of a diamond block, and vice versa. I can assure you that 99% of all of english-speaking persons are unaware of the word "muddle" (except for British people of course). To put this texture scrambler in perspective, lets look at the definition of "muddle:"
+![image]()
+
 ## Requirements
 Version: Windows 10
 
