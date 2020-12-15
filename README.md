@@ -1,7 +1,7 @@
 # MCMuddle
 ## Info
 This cursed program scrambles the 1.16 textures, which means that a stone block could end up having the texture of a diamond block, and vice versa. I can assure you that 99% of all of english-speaking persons are unaware of the word "muddle" (except for British people of course). To put this texture scrambler in perspective, lets look at the definition of "muddle:"
-![image]()
+![image](res/muddle-definition.png)
 
 ## Requirements
 Version: Windows 10
@@ -9,7 +9,7 @@ Version: Windows 10
 Minecraft Release: 1.16.x preferred
 
 ## Installation
-Go to the [releases tab](https://github.com/InfinitiStudios/MinecraftTextureScrambler/releases/tag/1.0.0) and install the latest version. This will download a zip file that needs to be extracted.
+Go to the [releases tab](https://github.com/LegionEntertainment/MCMuddle/releases/tag/1.0.0) and install the latest version. This will download a zip file that needs to be extracted.
 
 ## Usage
 
