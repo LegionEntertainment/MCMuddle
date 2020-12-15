@@ -1,4 +1,4 @@
-# MinecraftTextureScrambler
+# MCMuddle
 ## Requirements
 Version: Windows 10
 
