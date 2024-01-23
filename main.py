@@ -1,6 +1,7 @@
 import os
 import zipfile
 import random
+import platform
 
 print('What is the path to your Minecraft folder?')
 MINECRAFT_PATH = input()
@@ -15,7 +16,10 @@ minecraft_versions = []
 
 
 def version_path_to_display_name(path):
-    return path[path.rfind('/') + 1:]
+    if platform.system() == 'Windows':
+        return path[path.rfind('\\') + 1:]
+    else:
+        return path[path.rfind('/') + 1:]
 
 
 def get_minecraft_versions():
